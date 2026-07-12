@@ -1,0 +1,92 @@
+2026-04-10 08:00:01 INFO OrderId=ORD101 successfully assigned to driverId=DR201 on route Delhi-Mumbai
+2026-04-10 08:01:15 ERROR Booking failed for orderId=ORD102 due to driver unavailable
+2026-04-10 08:02:20 ERROR Pricing service timeout for route Delhi-Mumbai
+2026-04-10 08:03:10 WARNING High demand detected for route Bangalore-Hyderabad
+2026-04-10 08:04:05 ERROR Booking failed for orderId=ORD103 due to driver unavailable
+2026-04-10 08:05:30 WARNING No return load found for truckId=TR301 on route Mumbai-Delhi
+2026-04-10 08:06:45 INFO OrderId=ORD104 successfully assigned to driverId=DR202 on route Chennai-Bangalore
+2026-04-10 08:07:10 ERROR Booking failed for orderId=ORD105 due to driver unavailable
+2026-04-10 08:08:22 WARNING High demand detected for route Delhi-Jaipur
+2026-04-10 08:09:35 ERROR Pricing service timeout for route Chennai-Hyderabad
+2026-04-10 08:10:05 INFO OrderId=ORD106 successfully assigned to driverId=DR203 on route Pune-Mumbai
+2026-04-10 08:11:18 WARNING No return load found for truckId=TR302 on route Hyderabad-Chennai
+2026-04-10 08:12:40 ERROR Booking failed for orderId=ORD107 due to driver unavailable
+2026-04-10 08:13:55 INFO OrderId=ORD108 successfully assigned to driverId=DR204 on route Delhi-Lucknow
+2026-04-10 08:14:10 ERROR Pricing service unavailable for route Jaipur-Delhi
+2026-04-10 08:15:25 WARNING High demand detected for route Mumbai-Pune
+2026-04-10 08:16:40 ERROR Booking failed for orderId=ORD109 due to driver unavailable
+2026-04-10 08:17:55 WARNING No return load found for truckId=TR303 on route Delhi-Mumbai
+2026-04-10 08:18:10 INFO OrderId=ORD110 successfully assigned to driverId=DR205 on route Kolkata-Patna
+2026-04-10 08:19:25 ERROR Pricing service timeout for route Kolkata-Bhubaneswar
+2026-04-10 08:20:40 WARNING High demand detected for route Delhi-Mumbai
+2026-04-10 08:21:55 ERROR Booking failed for orderId=ORD111 due to driver unavailable
+2026-04-10 08:22:10 INFO OrderId=ORD112 successfully assigned to driverId=DR206 on route Ahmedabad-Surat
+2026-04-10 08:23:25 WARNING No return load found for truckId=TR304 on route Bangalore-Chennai
+2026-04-10 08:24:40 ERROR Booking failed for orderId=ORD113 due to payment gateway failure
+2026-04-10 08:25:55 INFO OrderId=ORD114 successfully assigned to driverId=DR207 on route Nagpur-Pune
+2026-04-10 08:26:10 ERROR Pricing service timeout for route Delhi-Mumbai
+2026-04-10 08:27:25 WARNING High demand detected for route Hyderabad-Bangalore
+2026-04-10 08:28:40 ERROR Booking failed for orderId=ORD115 due to driver unavailable
+2026-04-10 08:29:55 WARNING No return load found for truckId=TR305 on route Mumbai-Ahmedabad
+2026-04-10 08:30:10 INFO OrderId=ORD116 successfully assigned to driverId=DR208 on route Surat-Ahmedabad
+2026-04-10 08:31:25 ERROR Booking failed for orderId=ORD117 due to driver unavailable
+2026-04-10 08:32:40 WARNING High demand detected for route Chennai-Coimbatore
+2026-04-10 08:33:55 ERROR Pricing service unavailable for route Pune-Nagpur
+2026-04-10 08:34:10 INFO OrderId=ORD118 successfully assigned to driverId=DR209 on route Lucknow-Kanpur
+2026-04-10 08:35:25 WARNING No return load found for truckId=TR306 on route Jaipur-Delhi
+2026-04-10 08:36:40 ERROR Booking failed for orderId=ORD119 due to driver unavailable
+2026-04-10 08:37:55 INFO OrderId=ORD120 successfully assigned to driverId=DR210 on route Bhopal-Indore
+2026-04-10 08:38:10 ERROR Pricing service timeout for route Bangalore-Hyderabad
+2026-04-10 08:39:25 WARNING High demand detected for route Delhi-Chandigarh
+2026-04-10 08:40:40 ERROR Booking failed for orderId=ORD121 due to driver unavailable
+2026-04-10 08:41:55 WARNING No return load found for truckId=TR307 on route Chennai-Bangalore
+2026-04-10 08:42:10 INFO OrderId=ORD122 successfully assigned to driverId=DR211 on route Patna-Kolkata
+2026-04-10 08:43:25 ERROR Booking failed for orderId=ORD123 due to payment gateway failure
+2026-04-10 08:44:40 WARNING High demand detected for route Pune-Mumbai
+2026-04-10 08:45:55 ERROR Pricing service timeout for route Ahmedabad-Mumbai
+2026-04-10 08:46:10 INFO OrderId=ORD124 successfully assigned to driverId=DR212 on route Coimbatore-Chennai
+2026-04-10 08:47:25 WARNING No return load found for truckId=TR308 on route Indore-Bhopal
+2026-04-10 08:48:40 ERROR Booking failed for orderId=ORD125 due to driver unavailable
+2026-04-10 08:49:55 INFO OrderId=ORD126 successfully assigned to driverId=DR213 on route Chandigarh-Delhi
+2026-04-10 08:50:10 ERROR Booking failed for orderId=ORD127 due to driver unavailable
+2026-04-10 08:51:25 WARNING High demand detected for route Kolkata-Bhubaneswar
+2026-04-10 08:52:40 ERROR Pricing service unavailable for route Delhi-Mumbai
+2026-04-10 08:53:55 WARNING No return load found for truckId=TR309 on route Surat-Mumbai
+2026-04-10 08:54:10 INFO OrderId=ORD128 successfully assigned to driverId=DR214 on route Hyderabad-Vijayawada
+2026-04-10 08:55:25 ERROR Booking failed for orderId=ORD129 due to driver unavailable
+2026-04-10 08:56:40 WARNING High demand detected for route Delhi-Mumbai
+2026-04-10 08:57:55 INFO OrderId=ORD130 successfully assigned to driverId=DR215 on route Kanpur-Lucknow
+2026-04-10 08:58:10 ERROR Pricing service timeout for route Mumbai-Pune
+2026-04-10 08:59:25 WARNING No return load found for truckId=TR310 on route Nagpur-Mumbai
+2026-04-10 09:00:40 ERROR Booking failed for orderId=ORD131 due to driver unavailable
+2026-04-10 09:01:55 INFO OrderId=ORD132 successfully assigned to driverId=DR216 on route Vijayawada-Hyderabad
+2026-04-10 09:02:10 ERROR Booking failed for orderId=ORD133 due to payment gateway failure
+2026-04-10 09:03:25 WARNING High demand detected for route Bangalore-Mumbai
+2026-04-10 09:04:40 ERROR Pricing service timeout for route Delhi-Chandigarh
+2026-04-10 09:05:55 WARNING No return load found for truckId=TR311 on route Pune-Nagpur
+2026-04-10 09:06:10 INFO OrderId=ORD134 successfully assigned to driverId=DR217 on route Indore-Nagpur
+2026-04-10 09:07:25 ERROR Booking failed for orderId=ORD135 due to driver unavailable
+2026-04-10 09:08:40 WARNING High demand detected for route Hyderabad-Bangalore
+2026-04-10 09:09:55 ERROR Pricing service unavailable for route Kolkata-Patna
+2026-04-10 09:10:10 INFO OrderId=ORD136 successfully assigned to driverId=DR218 on route Mumbai-Nashik
+2026-04-10 09:11:25 WARNING No return load found for truckId=TR312 on route Ahmedabad-Baroda
+2026-04-10 09:12:40 ERROR Booking failed for orderId=ORD137 due to driver unavailable
+2026-04-10 09:13:55 INFO OrderId=ORD138 successfully assigned to driverId=DR219 on route Baroda-Ahmedabad
+2026-04-10 09:14:10 WARNING High demand detected for route Delhi-Agra
+2026-04-10 09:15:25 ERROR Pricing service timeout for route Bangalore-Chennai
+2026-04-10 09:16:40 ERROR Booking failed for orderId=ORD139 due to driver unavailable
+2026-04-10 09:17:55 WARNING No return load found for truckId=TR313 on route Nashik-Mumbai
+2026-04-10 09:18:10 INFO OrderId=ORD140 successfully assigned to driverId=DR220 on route Agra-Delhi
+2026-04-10 09:19:25 ERROR Booking failed for orderId=ORD141 due to driver unavailable
+2026-04-10 09:20:40 WARNING High demand detected for route Chennai-Madurai
+2026-04-10 09:21:55 ERROR Pricing service timeout for route Delhi-Mumbai
+2026-04-10 09:22:10 INFO OrderId=ORD142 successfully assigned to driverId=DR221 on route Madurai-Chennai
+2026-04-10 09:23:25 WARNING No return load found for truckId=TR314 on route Kolkata-Siliguri
+2026-04-10 09:24:40 ERROR Booking failed for orderId=ORD143 due to payment gateway failure
+2026-04-10 09:25:55 INFO OrderId=ORD144 successfully assigned to driverId=DR222 on route Siliguri-Kolkata
+2026-04-10 09:26:10 WARNING High demand detected for route Mumbai-Goa
+2026-04-10 09:27:25 ERROR Pricing service unavailable for route Hyderabad-Nagpur
+2026-04-10 09:28:40 ERROR Booking failed for orderId=ORD145 due to driver unavailable
+2026-04-10 09:29:55 WARNING No return load found for truckId=TR315 on route Goa-Mumbai
+2026-04-10 09:30:10 INFO OrderId=ORD146 successfully assigned to driverId=DR223 on route Nagpur-Hyderabad
+2026-04-10 09:31:25 ERROR Booking failed for orderId=ORD147 due to driver unavailable
